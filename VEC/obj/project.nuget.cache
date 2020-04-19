@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BzMmuzVzonIXF3MOgFpxqyLvP24SKVS6RDkQ7qSSXJDkQsJi3fVVSkYACaJv0WjycYkvqqCY/5NUCyYAFDM02g==",
+  "success": true,
+  "projectFilePath": "C:\\My Projects\\.NET Framework\\Projects\\VS2019\\VEC\\VEC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dhnst1\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
